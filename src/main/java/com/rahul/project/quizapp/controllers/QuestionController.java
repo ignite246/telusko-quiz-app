@@ -2,7 +2,6 @@ package com.rahul.project.quizapp.controllers;
 
 import com.rahul.project.quizapp.models.Question;
 import com.rahul.project.quizapp.services.QuestionService;
-import jakarta.persistence.criteria.CriteriaBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
